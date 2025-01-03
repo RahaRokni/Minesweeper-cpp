@@ -10,12 +10,11 @@ You have to compile the main.cpp file.
 
 ```bash
 g++ main.cpp -o game
-
-`bash`
+```
 And now the game is ready to run!
 
 ```bash
 ./game
+```
 
-`bash`
 NOTE: The game only runs with out any problems on linux. You might face some problems if you try to run it on windows, including lags and low frame rates.
